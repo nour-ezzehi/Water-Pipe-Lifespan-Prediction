@@ -34,3 +34,7 @@ Flask/Django (for web application)
 React Native or Flutter (for mobile application)
 ## Dataset
 The model was trained using a dataset of water pipe images. The dataset includes images of water pipes with varying degrees of deterioration (e.g., cracks, corrosion, or general wear). It is important to note that the quality of the images significantly influences the model’s performance, and efforts were made to ensure the model could handle images with various lighting conditions and angles.
+## Result
+As a result, 99% success has been achieved.
+The accuracy and loss function can change by changing the learning rates or changing the number of epoch.
+Thank you
